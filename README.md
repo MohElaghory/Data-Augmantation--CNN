@@ -19,4 +19,7 @@
     * 5.1 Predict and Submit results
 
 Dataset: https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6/data
-Original Kernel : https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6
+
+Original Kernel: https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6
+
+Recommended Article: https://nanonets.com/blog/data-augmentation-how-to-use-deep-learning-when-you-have-limited-data-part-2/
