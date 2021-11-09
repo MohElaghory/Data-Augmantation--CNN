@@ -2,6 +2,9 @@
 
 #### Data augmentation in data analysis are techniques used to increase the amount of data by adding slightly modified copies of already existing data or newly created synthetic data from existing data. It acts as a regularizer and helps reduce overfitting when training a machine learning model.[1] It is closely related to oversampling in data analysis.
 
+![Data Augmantation](https://user-images.githubusercontent.com/44786324/140846204-9613eeb3-dee9-4e88-85ca-4bfe5f979393.png)
+
+
 * **1. Introduction**
 * **2. Data preparation**
     * 2.1 Load data
