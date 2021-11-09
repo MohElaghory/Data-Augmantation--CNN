@@ -18,4 +18,5 @@
 * **5. Prediction and submition**
     * 5.1 Predict and Submit results
 
+Dataset: https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6/data
 Original Kernel : https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6
